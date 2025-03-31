@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Airline_SSRS", "Airline_SSRS\Airline_SSRS.rptproj", "{0E3EFA43-9742-4EF0-8C1C-7E51BEA735F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E3EFA43-9742-4EF0-8C1C-7E51BEA735F1}.Debug|Default.ActiveCfg = Debug
+		{0E3EFA43-9742-4EF0-8C1C-7E51BEA735F1}.Debug|Default.Build.0 = Debug
+		{0E3EFA43-9742-4EF0-8C1C-7E51BEA735F1}.Debug|Default.Deploy.0 = Debug
+		{0E3EFA43-9742-4EF0-8C1C-7E51BEA735F1}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{0E3EFA43-9742-4EF0-8C1C-7E51BEA735F1}.DebugLocal|Default.Build.0 = DebugLocal
+		{0E3EFA43-9742-4EF0-8C1C-7E51BEA735F1}.Release|Default.ActiveCfg = Release
+		{0E3EFA43-9742-4EF0-8C1C-7E51BEA735F1}.Release|Default.Build.0 = Release
+		{0E3EFA43-9742-4EF0-8C1C-7E51BEA735F1}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

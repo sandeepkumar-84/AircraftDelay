@@ -1,0 +1,2 @@
+1. execue sql task for executing create db script
+1. Delay Validation of the  tasks should be true in order to execute them sequentially
